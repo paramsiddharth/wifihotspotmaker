@@ -1,0 +1,9 @@
+BACKGROUND; 3
+BUTTON; SSIDBUTTOK; 2; 5; 2; Click to view the current S. S. I. D.; 14; 1; 15; 9
+BUTTON; KEYBUTTOJ; 1; 5; 4; Click to view the current key; 14; 1; 15; 9
+LABEL; 3; 8; S. S. I. D.; 15; 13
+LABEL; 5; 10; Key; 15; 13
+INPUTBOX; SSIDKK; 13; 16; 8; 60; 14; 0; 0
+INPUTBOX; SKEYK; 14; 9; 10; 64; 14; 0; 1
+BUTTON; SAVESETS; 3; 12; 15; Save; 10; 4; 12; 15
+BUTTON; SCANCEL; 4; 20; 15; Cancel; 10; 4; 12; 15

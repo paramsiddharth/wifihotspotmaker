@@ -1,0 +1,6 @@
+BACKGROUND; 3
+BUTTON; SSIDBUTTOK; 2; 5; 2; Click to view the current S. S. I. D.; 14; 1; 15; 9
+BUTTON; KEYBUTTOJ; 1; 5; 4; Click to view the current key; 14; 1; 15; 9
+BUTTON; STARTHPT; 3; 7; 8; Start WiFi Hotspot; 10; 4; 12; 15
+BUTTON; STPHPT; 3; 7; 10; Stop WiFi Hotspot; 10; 4; 12; 15
+BUTTON; CFGHPT; 3; 7; 12; Configure WiFi Hotspot settings; 10; 4; 12; 15
